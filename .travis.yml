@@ -6,6 +6,7 @@ node_js: stable
 # 安装依赖包
 install:
   - npm install
+  - npm audit fix
 
 # 生成博客静态资源
 script:
