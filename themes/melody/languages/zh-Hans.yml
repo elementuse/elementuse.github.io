@@ -7,6 +7,12 @@ sidebar:
   catalog: 目录
   have_read: 你已经读了
 
+menu:
+  home: 首页
+  archives: 归档
+  tags: 标签
+  categories: 分类
+
 footer:
   driven: 驱动
   theme: 主题

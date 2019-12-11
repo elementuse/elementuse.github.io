@@ -15,11 +15,22 @@
 
 # Main menu navigation
 menu:
-  Home: /
-  Archives: /archives
-  Tags: /tags
-  Categories: /categories
-  #XXX: /xxx
+  home:
+    url: /
+    label: home
+    icon: fa-home
+  archives:
+    url: /archives
+    label: archives
+    icon: fa-archive
+  tags:
+    url: /tags
+    label: tags
+    icon: fa-tags
+  categories:
+    url: /categories
+    label: categories
+    icon: fa-th-list
 
 # Favicon
 # ---------------
@@ -64,7 +75,7 @@ algolia_search:
 # Please see doc for more details: https://molunerfinn.com/hexo-theme-melody-doc/#/third-party-support?id=local-search
 # ---------------
 local_search:
-  enable: false
+  enable: true
 
 # MathJax
 # Please see doc for more details: https://molunerfinn.com/hexo-theme-melody-doc/#/third-party-support?id=mathjax

@@ -7,6 +7,12 @@ sidebar:
   catalog: Catalog
   have_read: You've read
 
+menu:
+  home: Home
+  archives: Archives
+  tags: Tags
+  categories: Categories
+
 footer:
   driven: Driven
   theme: Theme
