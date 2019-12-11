@@ -4,12 +4,12 @@
 # ---------------
 theme_color:
   enable: true
-  main: "#8A9779"
+  main: "#24171C"
   paginator: "#B6C09A"
   button_hover: "#DC5712"
   text_selection: "#B6C09A"
   link_color: "#858585"
-  hr_color: "#8A9779"
+  hr_color: "#24171C"
   tag_start_color: "#F4D000"
   tag_end_color: "#E58308"
 
