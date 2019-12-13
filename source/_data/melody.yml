@@ -135,7 +135,7 @@ cdn:
 
 # Post info settings
 # ---------------
-avatar:
+avatar: '/img/face.jpg'
 
 top_img: true # false or url of img
 
@@ -153,14 +153,14 @@ toc:
   # number: true
 
 post_copyright:
-  enable: true
+  enable: false
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # Please see doc for more details: https://molunerfinn.com/hexo-theme-melody-doc/#/theme-config?id=auto-excerpt
-# auto_excerpt:
-#   enable: false
-#   length: 150
+auto_excerpt:
+  enable: true
+  length: 150
 
 # slide
 # For reveal.js config, see https://github.com/hakimel/reveal.js#configuration
