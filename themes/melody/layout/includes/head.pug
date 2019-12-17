@@ -76,3 +76,6 @@ if theme.tencent_analytics
       var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hm, s);
     })();
+if theme.pace.enable
+  link(rel="stylesheet" href="https://cdn.bootcss.com/pace/1.0.2/themes/"+theme.pace.color+"/"+theme.pace.theme+".min.css")
+  script(src="https://cdn.bootcss.com/pace/1.0.2/pace.min.js")
