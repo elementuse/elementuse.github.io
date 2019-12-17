@@ -165,8 +165,8 @@ auto_excerpt:
 # slide
 # For reveal.js config, see https://github.com/hakimel/reveal.js#configuration
 slide:
-  separator: ---
-  separator_vertical: --
+  separator: ===
+  separator_vertical: ==
   charset: utf-8
   theme: black
   # optional
